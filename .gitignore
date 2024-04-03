@@ -1,0 +1,4 @@
+# Project exclude paths
+/ImpiccatoClient/target/
+/ImpiccatoCommons/target/
+/ImpiccatoServer/target/
